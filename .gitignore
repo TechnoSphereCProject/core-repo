@@ -1,3 +1,22 @@
+# Temporary files
+*~
+
+# Build, debug and testing folders and files
+# Makefile
+/build/*
+.DS_Store
+*.cmake
+Makefile
+.idea
+CMakeCache.txt
+CMakeFiles
+*.cbp
+Testing/
+
+# Visual Studio
+Debug/
+
+
 # Compiled Object files
 *.slo
 *.lo
