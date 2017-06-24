@@ -1,0 +1,3 @@
+[submodule "fcgi_module"]
+	path = fcgi_module
+	url = https://github.com/TechnoSphereCProject/fcgi_module.git
